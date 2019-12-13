@@ -1,2 +1,3 @@
-# final_project
-DATA 100 Final Project
+# Lesotho
+
+This is my final project on Lesotho
