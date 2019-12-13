@@ -13,7 +13,7 @@ This is my final project on Lesotho
 ![](adm1poptotals.png)
 ![](Hoekpopmap.png)
 ![](QuthingPopMap.png)
-![](Project 3.png)
+
 ## Roadways and Access to Healthcare 
 
 ![](Project 3.png)
