@@ -16,5 +16,5 @@ This is my final project on Lesotho
 
 ## Roadways and Access to Healthcare 
 
-![](Project 3.png)
+![](Hoek.png)
 ![](Project 4.png)
