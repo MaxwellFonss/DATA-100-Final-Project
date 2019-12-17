@@ -43,15 +43,13 @@ This graph depicts the total distribution of healthcare facilities in Lesotho, w
 This graph of both healthcare facilities and roads of the provinces of Qiloane and Ratau. While there are healthcare facilities located on the road leading to the capital, it seems odd that the roads themselves do not connect to any of the major population centers. 
 
 ![](4.png)
-| District      | Population Density              | Cool  |
-| ------------- |:-------------:| -----:|
-| Maseru        |114
-| Butha-Buthe   |60
-| Leribe        |97
-| Bera          |141
-|Mafeteng       |76
-|Mohale's Hoek  |44
-|Quthing        |39
-|Qacha's Nek    |32
-|Mokhotlong     |27
-|Thaba-Tseka    |26
+When the previous 2d map is projected onto a 3d model, it becomes more clear why Lesotho's roads and healthcare facilities are not in convenient locations for their population centers. The model shows that Lesotho's geography is made up of mountains separated by high altitude plateaus, which contain the most of the urban areas. Given that Lesotho lacks the resources to build infastructure on or through it's hazardous terrain, citizens must first reach roads on foot before they are able to reach healthcare facilities. 
+
+![](table.png)
+Comparing Lesotho's population by district to amount of healthcare facilities indicates that there is a clear lack of infastructure in addition the already existing problem of logistics. There is not a single district that has less than 20,000 people per hospital or clinic, indicating that healthcare is simply not obtainable for the vast majority of the population. Lesotho also seems to be unique in the sense that the more populated districts don't necessarily have more healthcare facilities per person, which shows that even living in a more urbanized area may not necessarily allow for easier access to healthcare compared to rural areas.
+
+## Conclusions
+
+My data indicates that Lesotho is a rural country with inadequate transportation networks and an almost non-existent healthcare system. Therefore I conclude that Lesotho is a least developed country.
+
+
