@@ -30,7 +30,7 @@ To further investigate the relationship between state size and population, I plo
 
 ![](barplot.png)
 
-In addition to providing a simplified depiction of Lesotho's population distribution, the bar graph also shows how big each share of Lesotho's population by district. While my previous plots had shown that each western district had roughly the same population, the bar graph revealed that there still is a large gap between the capital district of Maseru and the other populated states. The bargraph shows that almost 1 in 4 people in the entire country are located in Maseru, making the country interesting in the sense that it's population is concentrated on a adm1 level, but in practice is actually still very spread out on the more precise adm2 level.
+In addition to providing a simplified depiction of Lesotho's population distribution, the bar graph also shows how big each share of Lesotho's population by district. While my previous plots had shown that each western district had roughly the same population, the bar graph revealed that there still is a large gap between the capital district of Maseru and the other populated states. The bargraph shows that almost 1 in 4 people in the entire country are located in Maseru, making the country interesting in the sense that it's population is concentrated on an adm1 level, but in practice is actually still very spread out on the more precise adm2 level.
 
 
 
