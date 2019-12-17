@@ -11,7 +11,7 @@ This graph depicts the adm1 level districts of Lesotho. The capital city is Mase
 ![](Hoek.png) 
 ![](Quthing.png)
 
-These graphs show the adm2 administrative subdivisions of the provinces of Hoek and Quthing. I noticed that unlike adm1 administrative subdivisions, the adm borders seem to have been designed to designate urban areas rather than reflect geographic barriers such as mountains and rivers.
+These graphs show the adm2 administrative subdivisions of the provinces of Hoek and Quthing. I noticed that unlike adm1 administrative subdivisions which are centered around geographic barriers, the adm2 subdivisions indicate cities.
 
 ## Administrative Subdivisions of Population
 
